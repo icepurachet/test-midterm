@@ -16,7 +16,7 @@ if ($conn->connect_error) {
     die("<h2 style='color:red;'>❌ Connection Failed: " . $conn->connect_error . "</h2>");
 }
 ?>
-
+sssssssss
 <!DOCTYPE html>
 <html>
 <head>
